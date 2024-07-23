@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Restaurant_Website/static/css/main.a53cda81.css",
+    "main.js": "/Restaurant_Website/static/js/main.5087510d.js",
+    "static/js/453.171ddc7f.chunk.js": "/Restaurant_Website/static/js/453.171ddc7f.chunk.js",
+    "static/media/pngegg1.png": "/Restaurant_Website/static/media/pngegg1.18b9344aaf6b51b1dc8f.png",
+    "static/media/pngegg.png": "/Restaurant_Website/static/media/pngegg.089ed4bed972189ec317.png",
+    "static/media/Sushi.jpg": "/Restaurant_Website/static/media/Sushi.b04c8a79ac9d81dfbaef.jpg",
+    "static/media/Chettinad.jpg": "/Restaurant_Website/static/media/Chettinad.1281cea324fc45980cbc.jpg",
+    "static/media/Background.jpg": "/Restaurant_Website/static/media/Background.70b8d40f04f6798bcc21.jpg",
+    "static/media/Butter.jpg": "/Restaurant_Website/static/media/Butter.21b3639be8c02e0d9ef0.jpg",
+    "static/media/chef.jpg": "/Restaurant_Website/static/media/chef.572b6cbf47dfc935428e.jpg",
+    "static/media/Paneer.jpg": "/Restaurant_Website/static/media/Paneer.b44f21b9b4c8bd652dba.jpg",
+    "static/media/sous.jpg": "/Restaurant_Website/static/media/sous.5fd99aaa9c1d3310a3ce.jpg",
+    "static/media/manager.jpg": "/Restaurant_Website/static/media/manager.df67545cf6edd2e7bbf8.jpg",
+    "static/media/Logo.png": "/Restaurant_Website/static/media/Logo.d7880132cf40e1a4fb91.png",
+    "static/media/Fish.jpg": "/Restaurant_Website/static/media/Fish.437a6152ba79e4fa0847.jpg",
+    "static/media/Full.jpg": "/Restaurant_Website/static/media/Full.e196f12745511164de19.jpg",
+    "static/media/Chole.jpg": "/Restaurant_Website/static/media/Chole.392947a0ccc365102dbe.jpg",
+    "static/media/MasalaDosa.jpeg": "/Restaurant_Website/static/media/MasalaDosa.06f09763e20f2d67ec2d.jpeg",
+    "static/media/Mine.jpg": "/Restaurant_Website/static/media/Mine.694904c3396d89000d03.jpg",
+    "static/media/Mutton.jpg": "/Restaurant_Website/static/media/Mutton.1a4bf208a7bcebd372fc.jpg",
+    "static/media/Claim.webp": "/Restaurant_Website/static/media/Claim.6aa83778f81c5bc331db.webp",
+    "static/media/Rogan.jpeg": "/Restaurant_Website/static/media/Rogan.957f952411b39d1029ad.jpeg",
+    "static/media/Pongal.jpg": "/Restaurant_Website/static/media/Pongal.3ed49df39fbe389c44f5.jpg",
+    "index.html": "/Restaurant_Website/index.html",
+    "main.a53cda81.css.map": "/Restaurant_Website/static/css/main.a53cda81.css.map",
+    "main.5087510d.js.map": "/Restaurant_Website/static/js/main.5087510d.js.map",
+    "453.171ddc7f.chunk.js.map": "/Restaurant_Website/static/js/453.171ddc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a53cda81.css",
+    "static/js/main.5087510d.js"
+  ]
+}
